@@ -1,0 +1,801 @@
+customer_id,home_locality,signup_date,membership_tier
+1001,Bannerghatta Road,2025-01-13,Regular
+1002,Whitefield,2025-05-06,Pro
+1003,Indiranagar,2025-03-13,Plus
+1004,Bannerghatta Road,2025-10-07,Regular
+1005,Bannerghatta Road,2025-08-05,Regular
+1006,Jayanagar,2025-01-16,Regular
+1007,Bannerghatta Road,2025-04-22,Regular
+1008,Indiranagar,2025-09-16,Plus
+1009,Jayanagar,2025-10-15,Regular
+1010,Indiranagar,2025-10-07,Plus
+1011,HSR Layout,2025-04-23,Regular
+1012,JP Nagar,2025-05-23,Pro
+1013,Jayanagar,2025-03-23,Plus
+1014,HSR Layout,2025-06-24,Regular
+1015,Whitefield,2025-03-21,Regular
+1016,Indiranagar,2025-06-22,Regular
+1017,Bannerghatta Road,2025-02-17,Regular
+1018,HSR Layout,2025-02-19,Regular
+1019,Electronic City,2025-06-26,Regular
+1020,Whitefield,2025-01-23,Regular
+1021,JP Nagar,2025-10-02,Regular
+1022,Bannerghatta Road,2025-07-13,Regular
+1023,Bannerghatta Road,2025-10-10,Regular
+1024,Whitefield,2025-07-05,Regular
+1025,Indiranagar,2025-02-05,Regular
+1026,Jayanagar,2025-04-27,Plus
+1027,Whitefield,2025-02-10,Regular
+1028,Indiranagar,2025-02-21,Regular
+1029,HSR Layout,2025-05-23,Regular
+1030,JP Nagar,2025-07-06,Regular
+1031,Koramangala,2025-07-09,Regular
+1032,Electronic City,2025-04-18,Regular
+1033,Whitefield,2025-02-06,Regular
+1034,Koramangala,2025-10-01,Pro
+1035,Indiranagar,2025-03-25,Pro
+1036,JP Nagar,2025-07-14,Plus
+1037,Whitefield,2025-10-13,Regular
+1038,Indiranagar,2025-06-16,Regular
+1039,Jayanagar,2025-04-28,Plus
+1040,Jayanagar,2025-06-11,Regular
+1041,HSR Layout,2025-05-18,Regular
+1042,Bannerghatta Road,2025-04-19,Regular
+1043,Electronic City,2025-04-19,Regular
+1044,JP Nagar,2025-07-22,Pro
+1045,JP Nagar,2025-03-15,Regular
+1046,Whitefield,2025-03-13,Plus
+1047,Indiranagar,2025-10-15,Regular
+1048,BTM Layout,2025-05-15,Regular
+1049,HSR Layout,2025-10-26,Regular
+1050,HSR Layout,2025-07-05,Regular
+1051,Indiranagar,2025-03-12,Pro
+1052,BTM Layout,2025-09-10,Plus
+1053,Bannerghatta Road,2025-01-25,Pro
+1054,Bannerghatta Road,2025-03-20,Plus
+1055,Koramangala,2025-08-05,Regular
+1056,Bannerghatta Road,2025-07-17,Pro
+1057,HSR Layout,2025-08-28,Regular
+1058,BTM Layout,2025-05-09,Regular
+1059,BTM Layout,2025-01-06,Regular
+1060,Bannerghatta Road,2025-10-02,Regular
+1061,Whitefield,2025-06-24,Regular
+1062,Bannerghatta Road,2025-05-31,Regular
+1063,HSR Layout,2025-03-22,Plus
+1064,JP Nagar,2025-01-02,Regular
+1065,Whitefield,2025-09-14,Regular
+1066,Koramangala,2025-09-17,Regular
+1067,Bannerghatta Road,2025-06-02,Regular
+1068,BTM Layout,2025-04-12,Plus
+1069,Koramangala,2025-07-11,Regular
+1070,Koramangala,2025-10-04,Pro
+1071,BTM Layout,2025-01-01,Plus
+1072,Electronic City,2025-09-08,Regular
+1073,Jayanagar,2025-02-27,Regular
+1074,Electronic City,2025-06-07,Plus
+1075,Indiranagar,2025-01-30,Plus
+1076,Indiranagar,2025-10-18,Plus
+1077,Bannerghatta Road,2025-02-13,Plus
+1078,JP Nagar,2025-02-05,Regular
+1079,BTM Layout,2025-03-06,Regular
+1080,Koramangala,2025-09-01,Regular
+1081,BTM Layout,2025-03-26,Plus
+1082,Whitefield,2025-09-28,Regular
+1083,HSR Layout,2025-04-19,Regular
+1084,BTM Layout,2025-04-13,Regular
+1085,Whitefield,2025-07-24,Regular
+1086,Electronic City,2025-08-13,Regular
+1087,BTM Layout,2025-08-20,Plus
+1088,Bannerghatta Road,2025-05-07,Regular
+1089,Indiranagar,2025-02-02,Plus
+1090,Electronic City,2025-01-11,Regular
+1091,BTM Layout,2025-04-28,Regular
+1092,Indiranagar,2025-01-04,Plus
+1093,Bannerghatta Road,2025-01-31,Plus
+1094,Indiranagar,2025-02-04,Regular
+1095,Jayanagar,2025-06-19,Plus
+1096,Bannerghatta Road,2025-09-21,Regular
+1097,Indiranagar,2025-05-23,Regular
+1098,JP Nagar,2025-04-20,Regular
+1099,BTM Layout,2025-03-09,Regular
+1100,JP Nagar,2025-05-05,Regular
+1101,JP Nagar,2025-07-28,Regular
+1102,Indiranagar,2025-02-18,Regular
+1103,Bannerghatta Road,2025-08-09,Regular
+1104,Electronic City,2025-08-05,Regular
+1105,HSR Layout,2025-08-28,Pro
+1106,Jayanagar,2025-02-20,Regular
+1107,Jayanagar,2025-07-26,Regular
+1108,Electronic City,2025-02-25,Plus
+1109,Indiranagar,2025-04-09,Regular
+1110,Indiranagar,2025-10-02,Regular
+1111,JP Nagar,2025-03-13,Regular
+1112,HSR Layout,2025-04-04,Regular
+1113,Whitefield,2025-08-25,Pro
+1114,Indiranagar,2025-02-08,Plus
+1115,JP Nagar,2025-10-09,Regular
+1116,Bannerghatta Road,2025-01-26,Plus
+1117,BTM Layout,2025-01-08,Plus
+1118,Bannerghatta Road,2025-05-02,Regular
+1119,Koramangala,2025-07-28,Plus
+1120,JP Nagar,2025-09-04,Regular
+1121,Indiranagar,2025-07-25,Plus
+1122,Jayanagar,2025-03-26,Plus
+1123,HSR Layout,2025-01-02,Regular
+1124,HSR Layout,2025-05-16,Regular
+1125,JP Nagar,2025-05-27,Regular
+1126,HSR Layout,2025-10-12,Regular
+1127,JP Nagar,2025-03-21,Plus
+1128,Indiranagar,2025-06-01,Plus
+1129,Indiranagar,2025-01-30,Regular
+1130,BTM Layout,2025-02-01,Regular
+1131,Electronic City,2025-01-30,Regular
+1132,Jayanagar,2025-10-27,Regular
+1133,JP Nagar,2025-09-15,Regular
+1134,BTM Layout,2025-03-22,Regular
+1135,Jayanagar,2025-09-18,Pro
+1136,Bannerghatta Road,2025-04-06,Regular
+1137,Bannerghatta Road,2025-02-04,Regular
+1138,Indiranagar,2025-07-26,Plus
+1139,Bannerghatta Road,2025-10-19,Regular
+1140,Indiranagar,2025-10-24,Pro
+1141,Jayanagar,2025-02-11,Pro
+1142,HSR Layout,2025-10-26,Regular
+1143,BTM Layout,2025-06-11,Regular
+1144,Whitefield,2025-04-15,Regular
+1145,Electronic City,2025-05-03,Regular
+1146,Whitefield,2025-07-22,Regular
+1147,Koramangala,2025-06-03,Regular
+1148,JP Nagar,2025-06-11,Regular
+1149,Bannerghatta Road,2025-01-05,Regular
+1150,JP Nagar,2025-10-16,Regular
+1151,Bannerghatta Road,2025-02-07,Pro
+1152,BTM Layout,2025-04-20,Regular
+1153,BTM Layout,2025-05-16,Regular
+1154,Koramangala,2025-06-28,Regular
+1155,Bannerghatta Road,2025-05-06,Pro
+1156,Electronic City,2025-05-26,Regular
+1157,Koramangala,2025-08-13,Plus
+1158,BTM Layout,2025-06-04,Plus
+1159,BTM Layout,2025-01-05,Regular
+1160,BTM Layout,2025-06-03,Plus
+1161,Bannerghatta Road,2025-03-10,Regular
+1162,Whitefield,2025-03-01,Regular
+1163,Bannerghatta Road,2025-10-11,Regular
+1164,Koramangala,2025-05-20,Regular
+1165,Whitefield,2025-04-18,Regular
+1166,Electronic City,2025-04-15,Plus
+1167,Whitefield,2025-09-16,Regular
+1168,JP Nagar,2025-05-09,Regular
+1169,Jayanagar,2025-02-17,Regular
+1170,HSR Layout,2025-05-22,Regular
+1171,Jayanagar,2025-01-02,Plus
+1172,Electronic City,2025-03-08,Regular
+1173,Whitefield,2025-03-24,Regular
+1174,JP Nagar,2025-10-10,Regular
+1175,HSR Layout,2025-10-15,Regular
+1176,Jayanagar,2025-02-27,Regular
+1177,Bannerghatta Road,2025-03-18,Plus
+1178,BTM Layout,2025-01-19,Regular
+1179,Electronic City,2025-10-26,Pro
+1180,BTM Layout,2025-03-17,Regular
+1181,HSR Layout,2025-03-07,Regular
+1182,Jayanagar,2025-06-07,Regular
+1183,Electronic City,2025-01-21,Pro
+1184,Electronic City,2025-04-18,Plus
+1185,Indiranagar,2025-02-22,Regular
+1186,Electronic City,2025-10-14,Plus
+1187,HSR Layout,2025-03-21,Plus
+1188,Indiranagar,2025-03-25,Regular
+1189,Koramangala,2025-07-31,Regular
+1190,Jayanagar,2025-04-02,Regular
+1191,Electronic City,2025-07-30,Regular
+1192,Indiranagar,2025-05-17,Plus
+1193,Koramangala,2025-02-25,Pro
+1194,HSR Layout,2025-01-20,Regular
+1195,JP Nagar,2025-04-24,Regular
+1196,Indiranagar,2025-08-24,Regular
+1197,Electronic City,2025-06-06,Plus
+1198,Indiranagar,2025-04-25,Plus
+1199,Jayanagar,2025-04-09,Plus
+1200,HSR Layout,2025-06-18,Plus
+1201,Whitefield,2025-02-05,Regular
+1202,Whitefield,2025-06-29,Regular
+1203,BTM Layout,2025-07-24,Regular
+1204,BTM Layout,2025-06-19,Plus
+1205,Jayanagar,2025-03-01,Regular
+1206,Whitefield,2025-04-02,Regular
+1207,Whitefield,2025-01-20,Regular
+1208,Bannerghatta Road,2025-08-11,Plus
+1209,Electronic City,2025-06-10,Regular
+1210,HSR Layout,2025-09-19,Regular
+1211,Bannerghatta Road,2025-07-17,Regular
+1212,Indiranagar,2025-05-11,Plus
+1213,Jayanagar,2025-08-12,Plus
+1214,Jayanagar,2025-09-24,Regular
+1215,BTM Layout,2025-04-11,Plus
+1216,Electronic City,2025-08-09,Regular
+1217,Bannerghatta Road,2025-06-19,Regular
+1218,Electronic City,2025-03-05,Plus
+1219,Whitefield,2025-09-17,Regular
+1220,Whitefield,2025-07-29,Plus
+1221,Electronic City,2025-07-26,Plus
+1222,Whitefield,2025-10-11,Regular
+1223,Koramangala,2025-04-09,Regular
+1224,HSR Layout,2025-07-14,Regular
+1225,Koramangala,2025-10-19,Regular
+1226,Whitefield,2025-07-27,Regular
+1227,BTM Layout,2025-01-01,Pro
+1228,Whitefield,2025-05-27,Regular
+1229,Indiranagar,2025-08-09,Plus
+1230,Electronic City,2025-08-27,Regular
+1231,JP Nagar,2025-08-15,Plus
+1232,Indiranagar,2025-09-19,Regular
+1233,JP Nagar,2025-03-28,Regular
+1234,Bannerghatta Road,2025-05-26,Regular
+1235,BTM Layout,2025-06-21,Regular
+1236,Bannerghatta Road,2025-05-01,Plus
+1237,Whitefield,2025-04-26,Regular
+1238,Indiranagar,2025-03-17,Regular
+1239,Jayanagar,2025-01-24,Regular
+1240,Indiranagar,2025-09-01,Regular
+1241,Bannerghatta Road,2025-08-22,Pro
+1242,HSR Layout,2025-10-22,Pro
+1243,Indiranagar,2025-07-16,Pro
+1244,JP Nagar,2025-07-24,Regular
+1245,Indiranagar,2025-03-17,Regular
+1246,Jayanagar,2025-02-24,Pro
+1247,HSR Layout,2025-04-23,Regular
+1248,Koramangala,2025-09-23,Pro
+1249,JP Nagar,2025-01-26,Pro
+1250,BTM Layout,2025-05-08,Plus
+1251,Bannerghatta Road,2025-08-22,Regular
+1252,Koramangala,2025-08-26,Regular
+1253,BTM Layout,2025-10-14,Plus
+1254,Electronic City,2025-08-15,Regular
+1255,BTM Layout,2025-08-07,Regular
+1256,BTM Layout,2025-08-17,Regular
+1257,Koramangala,2025-09-01,Pro
+1258,JP Nagar,2025-05-13,Plus
+1259,Indiranagar,2025-05-22,Regular
+1260,BTM Layout,2025-09-06,Regular
+1261,Indiranagar,2025-05-21,Regular
+1262,JP Nagar,2025-02-09,Pro
+1263,Whitefield,2025-05-01,Regular
+1264,Whitefield,2025-06-21,Regular
+1265,Electronic City,2025-10-04,Plus
+1266,Bannerghatta Road,2025-03-12,Plus
+1267,Koramangala,2025-04-29,Plus
+1268,HSR Layout,2025-03-20,Plus
+1269,Indiranagar,2025-02-02,Regular
+1270,HSR Layout,2025-07-28,Regular
+1271,Electronic City,2025-10-05,Plus
+1272,JP Nagar,2025-08-01,Plus
+1273,Jayanagar,2025-04-16,Plus
+1274,HSR Layout,2025-07-19,Pro
+1275,Jayanagar,2025-10-22,Regular
+1276,HSR Layout,2025-09-02,Regular
+1277,Jayanagar,2025-06-30,Plus
+1278,Whitefield,2025-07-19,Regular
+1279,HSR Layout,2025-10-03,Plus
+1280,BTM Layout,2025-04-23,Plus
+1281,JP Nagar,2025-04-23,Plus
+1282,Whitefield,2025-08-12,Regular
+1283,JP Nagar,2025-01-15,Regular
+1284,HSR Layout,2025-06-22,Regular
+1285,HSR Layout,2025-03-26,Regular
+1286,JP Nagar,2025-03-07,Regular
+1287,BTM Layout,2025-01-14,Regular
+1288,HSR Layout,2025-10-16,Regular
+1289,Jayanagar,2025-02-12,Regular
+1290,HSR Layout,2025-03-11,Regular
+1291,JP Nagar,2025-04-04,Regular
+1292,Jayanagar,2025-05-14,Regular
+1293,HSR Layout,2025-06-17,Plus
+1294,Indiranagar,2025-08-21,Regular
+1295,Electronic City,2025-06-22,Regular
+1296,HSR Layout,2025-05-23,Regular
+1297,HSR Layout,2025-05-10,Plus
+1298,Bannerghatta Road,2025-08-29,Regular
+1299,Jayanagar,2025-10-04,Regular
+1300,Jayanagar,2025-06-29,Regular
+1301,Indiranagar,2025-02-05,Regular
+1302,Jayanagar,2025-01-16,Regular
+1303,Indiranagar,2025-04-13,Regular
+1304,Jayanagar,2025-03-20,Regular
+1305,Indiranagar,2025-03-06,Plus
+1306,JP Nagar,2025-02-28,Pro
+1307,Indiranagar,2025-08-27,Regular
+1308,Whitefield,2025-07-08,Regular
+1309,Koramangala,2025-02-28,Plus
+1310,Koramangala,2025-06-09,Regular
+1311,Bannerghatta Road,2025-10-24,Regular
+1312,Jayanagar,2025-06-09,Regular
+1313,HSR Layout,2025-07-23,Regular
+1314,Indiranagar,2025-02-08,Pro
+1315,Indiranagar,2025-02-22,Plus
+1316,Whitefield,2025-03-03,Plus
+1317,Jayanagar,2025-06-27,Regular
+1318,BTM Layout,2025-08-08,Regular
+1319,Electronic City,2025-02-05,Regular
+1320,BTM Layout,2025-06-24,Regular
+1321,Jayanagar,2025-08-04,Regular
+1322,JP Nagar,2025-02-24,Plus
+1323,HSR Layout,2025-07-05,Plus
+1324,JP Nagar,2025-03-20,Regular
+1325,HSR Layout,2025-04-01,Pro
+1326,BTM Layout,2025-05-19,Plus
+1327,BTM Layout,2025-09-05,Regular
+1328,JP Nagar,2025-08-12,Regular
+1329,Whitefield,2025-06-15,Regular
+1330,Indiranagar,2025-02-14,Regular
+1331,Whitefield,2025-08-19,Regular
+1332,Indiranagar,2025-08-26,Plus
+1333,HSR Layout,2025-06-22,Regular
+1334,Jayanagar,2025-09-11,Regular
+1335,Electronic City,2025-04-04,Regular
+1336,JP Nagar,2025-04-19,Regular
+1337,Electronic City,2025-05-13,Plus
+1338,Electronic City,2025-05-24,Plus
+1339,Whitefield,2025-10-12,Regular
+1340,Jayanagar,2025-09-22,Regular
+1341,Indiranagar,2025-02-13,Regular
+1342,Indiranagar,2025-07-28,Regular
+1343,JP Nagar,2025-10-12,Regular
+1344,Indiranagar,2025-09-01,Regular
+1345,JP Nagar,2025-08-18,Regular
+1346,Jayanagar,2025-02-17,Regular
+1347,Whitefield,2025-04-24,Regular
+1348,HSR Layout,2025-05-05,Regular
+1349,Whitefield,2025-10-25,Regular
+1350,Electronic City,2025-08-31,Regular
+1351,BTM Layout,2025-09-29,Regular
+1352,Electronic City,2025-08-06,Plus
+1353,BTM Layout,2025-06-19,Plus
+1354,Electronic City,2025-08-21,Regular
+1355,Whitefield,2025-06-06,Regular
+1356,Whitefield,2025-04-29,Regular
+1357,Bannerghatta Road,2025-04-09,Regular
+1358,Electronic City,2025-03-03,Regular
+1359,BTM Layout,2025-04-05,Pro
+1360,Indiranagar,2025-04-21,Regular
+1361,JP Nagar,2025-05-22,Regular
+1362,BTM Layout,2025-05-25,Regular
+1363,Bannerghatta Road,2025-04-10,Regular
+1364,Whitefield,2025-04-27,Regular
+1365,Electronic City,2025-04-02,Pro
+1366,Whitefield,2025-01-08,Regular
+1367,BTM Layout,2025-03-06,Pro
+1368,Whitefield,2025-01-24,Pro
+1369,Jayanagar,2025-10-11,Regular
+1370,Whitefield,2025-03-06,Regular
+1371,JP Nagar,2025-02-22,Regular
+1372,Jayanagar,2025-10-21,Regular
+1373,Whitefield,2025-08-29,Regular
+1374,JP Nagar,2025-08-14,Plus
+1375,Electronic City,2025-04-05,Regular
+1376,Jayanagar,2025-05-10,Regular
+1377,JP Nagar,2025-02-28,Plus
+1378,Bannerghatta Road,2025-07-25,Regular
+1379,JP Nagar,2025-02-07,Plus
+1380,Jayanagar,2025-03-19,Regular
+1381,Koramangala,2025-10-16,Regular
+1382,Whitefield,2025-02-13,Plus
+1383,Indiranagar,2025-03-02,Regular
+1384,BTM Layout,2025-08-02,Plus
+1385,Indiranagar,2025-09-25,Plus
+1386,HSR Layout,2025-08-19,Plus
+1387,JP Nagar,2025-06-02,Regular
+1388,HSR Layout,2025-06-06,Regular
+1389,Jayanagar,2025-02-20,Plus
+1390,Indiranagar,2025-04-19,Plus
+1391,Whitefield,2025-02-11,Pro
+1392,Koramangala,2025-05-03,Regular
+1393,Koramangala,2025-10-10,Regular
+1394,Bannerghatta Road,2025-03-22,Plus
+1395,Jayanagar,2025-07-29,Regular
+1396,JP Nagar,2025-08-29,Pro
+1397,Whitefield,2025-01-17,Plus
+1398,Indiranagar,2025-05-28,Regular
+1399,Whitefield,2025-08-21,Plus
+1400,Bannerghatta Road,2025-04-30,Plus
+1401,Whitefield,2025-04-12,Regular
+1402,HSR Layout,2025-02-28,Pro
+1403,BTM Layout,2025-04-26,Regular
+1404,Koramangala,2025-05-17,Plus
+1405,Koramangala,2025-02-06,Regular
+1406,Jayanagar,2025-03-26,Plus
+1407,Whitefield,2025-10-19,Regular
+1408,Whitefield,2025-08-13,Regular
+1409,Bannerghatta Road,2025-08-28,Pro
+1410,Whitefield,2025-07-26,Regular
+1411,Whitefield,2025-09-14,Regular
+1412,BTM Layout,2025-09-10,Pro
+1413,JP Nagar,2025-02-11,Pro
+1414,Jayanagar,2025-08-10,Regular
+1415,Electronic City,2025-05-09,Regular
+1416,Jayanagar,2025-02-16,Regular
+1417,Indiranagar,2025-10-22,Regular
+1418,Jayanagar,2025-05-18,Regular
+1419,Jayanagar,2025-03-31,Plus
+1420,JP Nagar,2025-09-23,Plus
+1421,JP Nagar,2025-05-23,Plus
+1422,Koramangala,2025-10-27,Plus
+1423,HSR Layout,2025-09-09,Regular
+1424,Bannerghatta Road,2025-08-29,Regular
+1425,Electronic City,2025-07-29,Regular
+1426,Electronic City,2025-06-14,Regular
+1427,Bannerghatta Road,2025-03-24,Regular
+1428,Electronic City,2025-07-30,Plus
+1429,JP Nagar,2025-05-28,Regular
+1430,HSR Layout,2025-10-09,Regular
+1431,Jayanagar,2025-08-21,Regular
+1432,Bannerghatta Road,2025-06-11,Plus
+1433,Whitefield,2025-06-15,Regular
+1434,Bannerghatta Road,2025-07-26,Regular
+1435,BTM Layout,2025-01-01,Regular
+1436,BTM Layout,2025-08-25,Plus
+1437,HSR Layout,2025-01-28,Regular
+1438,Indiranagar,2025-09-23,Plus
+1439,Electronic City,2025-09-13,Plus
+1440,JP Nagar,2025-01-27,Regular
+1441,Indiranagar,2025-05-17,Regular
+1442,BTM Layout,2025-03-09,Pro
+1443,Whitefield,2025-08-13,Regular
+1444,JP Nagar,2025-03-04,Regular
+1445,Jayanagar,2025-05-03,Plus
+1446,Koramangala,2025-06-09,Pro
+1447,BTM Layout,2025-01-08,Pro
+1448,BTM Layout,2025-07-28,Plus
+1449,Bannerghatta Road,2025-04-26,Regular
+1450,Bannerghatta Road,2025-08-25,Regular
+1451,Bannerghatta Road,2025-03-20,Plus
+1452,JP Nagar,2025-05-30,Regular
+1453,BTM Layout,2025-05-20,Regular
+1454,HSR Layout,2025-09-05,Pro
+1455,JP Nagar,2025-05-05,Regular
+1456,JP Nagar,2025-10-10,Regular
+1457,Koramangala,2025-07-16,Regular
+1458,Indiranagar,2025-09-18,Regular
+1459,Koramangala,2025-02-05,Regular
+1460,Whitefield,2025-08-01,Regular
+1461,Electronic City,2025-09-17,Regular
+1462,Whitefield,2025-01-02,Regular
+1463,Whitefield,2025-06-02,Plus
+1464,JP Nagar,2025-03-18,Regular
+1465,JP Nagar,2025-10-03,Pro
+1466,JP Nagar,2025-06-26,Regular
+1467,Electronic City,2025-10-10,Regular
+1468,BTM Layout,2025-07-13,Plus
+1469,JP Nagar,2025-06-14,Regular
+1470,Indiranagar,2025-05-03,Pro
+1471,HSR Layout,2025-04-30,Regular
+1472,HSR Layout,2025-01-23,Pro
+1473,Electronic City,2025-08-31,Regular
+1474,HSR Layout,2025-07-17,Plus
+1475,Koramangala,2025-09-11,Regular
+1476,Jayanagar,2025-03-06,Pro
+1477,BTM Layout,2025-06-19,Regular
+1478,Bannerghatta Road,2025-08-14,Regular
+1479,Bannerghatta Road,2025-09-27,Pro
+1480,JP Nagar,2025-01-08,Regular
+1481,Koramangala,2025-07-29,Regular
+1482,Koramangala,2025-02-08,Plus
+1483,JP Nagar,2025-05-16,Regular
+1484,Electronic City,2025-07-23,Regular
+1485,Bannerghatta Road,2025-06-18,Regular
+1486,BTM Layout,2025-07-14,Pro
+1487,Electronic City,2025-09-07,Regular
+1488,BTM Layout,2025-01-19,Regular
+1489,Bannerghatta Road,2025-05-01,Pro
+1490,Whitefield,2025-04-27,Plus
+1491,Bannerghatta Road,2025-08-11,Regular
+1492,Bannerghatta Road,2025-02-21,Regular
+1493,JP Nagar,2025-03-27,Regular
+1494,Whitefield,2025-01-15,Regular
+1495,Jayanagar,2025-06-16,Regular
+1496,Jayanagar,2025-05-31,Regular
+1497,Electronic City,2025-07-11,Regular
+1498,HSR Layout,2025-03-16,Regular
+1499,Indiranagar,2025-09-29,Pro
+1500,HSR Layout,2025-10-17,Pro
+1501,Koramangala,2025-03-29,Plus
+1502,Koramangala,2025-02-10,Regular
+1503,HSR Layout,2025-05-04,Regular
+1504,JP Nagar,2025-10-26,Plus
+1505,Koramangala,2025-04-29,Plus
+1506,JP Nagar,2025-05-11,Regular
+1507,JP Nagar,2025-05-11,Pro
+1508,Jayanagar,2025-08-27,Plus
+1509,Whitefield,2025-10-07,Pro
+1510,Koramangala,2025-02-07,Plus
+1511,JP Nagar,2025-06-26,Regular
+1512,Whitefield,2025-08-06,Regular
+1513,Whitefield,2025-08-22,Pro
+1514,Whitefield,2025-04-12,Plus
+1515,HSR Layout,2025-09-05,Regular
+1516,Bannerghatta Road,2025-05-02,Regular
+1517,HSR Layout,2025-10-20,Regular
+1518,Electronic City,2025-10-22,Plus
+1519,Whitefield,2025-06-01,Pro
+1520,Jayanagar,2025-07-22,Regular
+1521,Whitefield,2025-01-05,Regular
+1522,Jayanagar,2025-09-12,Regular
+1523,Whitefield,2025-04-28,Pro
+1524,Electronic City,2025-04-23,Plus
+1525,Indiranagar,2025-05-09,Plus
+1526,Koramangala,2025-02-19,Regular
+1527,Jayanagar,2025-06-08,Regular
+1528,JP Nagar,2025-01-18,Regular
+1529,Electronic City,2025-03-09,Regular
+1530,Bannerghatta Road,2025-06-01,Plus
+1531,Electronic City,2025-08-01,Plus
+1532,Koramangala,2025-04-13,Pro
+1533,Koramangala,2025-10-04,Pro
+1534,Electronic City,2025-09-29,Regular
+1535,BTM Layout,2025-05-20,Plus
+1536,Koramangala,2025-05-12,Pro
+1537,JP Nagar,2025-06-01,Plus
+1538,Electronic City,2025-02-28,Regular
+1539,JP Nagar,2025-02-08,Regular
+1540,Koramangala,2025-04-26,Regular
+1541,HSR Layout,2025-10-13,Pro
+1542,Electronic City,2025-02-16,Regular
+1543,HSR Layout,2025-01-08,Regular
+1544,Whitefield,2025-10-02,Plus
+1545,Bannerghatta Road,2025-08-21,Regular
+1546,Electronic City,2025-05-15,Regular
+1547,HSR Layout,2025-07-10,Regular
+1548,Bannerghatta Road,2025-04-30,Plus
+1549,JP Nagar,2025-01-13,Regular
+1550,BTM Layout,2025-06-17,Plus
+1551,Indiranagar,2025-02-02,Regular
+1552,JP Nagar,2025-06-04,Plus
+1553,HSR Layout,2025-03-01,Regular
+1554,Koramangala,2025-01-24,Regular
+1555,Jayanagar,2025-06-05,Plus
+1556,JP Nagar,2025-03-01,Regular
+1557,Bannerghatta Road,2025-05-01,Regular
+1558,BTM Layout,2025-03-11,Regular
+1559,HSR Layout,2025-08-21,Plus
+1560,Electronic City,2025-10-04,Regular
+1561,HSR Layout,2025-10-28,Plus
+1562,Koramangala,2025-08-01,Regular
+1563,Bannerghatta Road,2025-09-08,Regular
+1564,HSR Layout,2025-05-24,Regular
+1565,Jayanagar,2025-07-09,Regular
+1566,Indiranagar,2025-08-16,Regular
+1567,JP Nagar,2025-05-01,Regular
+1568,Electronic City,2025-02-20,Regular
+1569,Electronic City,2025-10-06,Pro
+1570,Electronic City,2025-02-01,Regular
+1571,HSR Layout,2025-05-22,Regular
+1572,Indiranagar,2025-03-04,Plus
+1573,JP Nagar,2025-02-16,Regular
+1574,Indiranagar,2025-01-11,Regular
+1575,Jayanagar,2025-06-20,Plus
+1576,Indiranagar,2025-03-06,Pro
+1577,Indiranagar,2025-02-05,Regular
+1578,BTM Layout,2025-04-17,Pro
+1579,Indiranagar,2025-04-30,Regular
+1580,Electronic City,2025-03-17,Regular
+1581,Jayanagar,2025-05-22,Regular
+1582,Koramangala,2025-03-08,Pro
+1583,BTM Layout,2025-05-09,Regular
+1584,Koramangala,2025-02-26,Regular
+1585,Jayanagar,2025-03-09,Regular
+1586,Jayanagar,2025-07-03,Regular
+1587,Indiranagar,2025-06-15,Regular
+1588,Jayanagar,2025-03-31,Regular
+1589,Whitefield,2025-01-27,Regular
+1590,Koramangala,2025-08-04,Regular
+1591,BTM Layout,2025-02-28,Regular
+1592,Bannerghatta Road,2025-09-01,Regular
+1593,JP Nagar,2025-07-05,Regular
+1594,BTM Layout,2025-02-25,Regular
+1595,JP Nagar,2025-09-15,Plus
+1596,Indiranagar,2025-01-23,Regular
+1597,BTM Layout,2025-06-04,Plus
+1598,JP Nagar,2025-01-16,Regular
+1599,Jayanagar,2025-09-03,Regular
+1600,HSR Layout,2025-08-07,Regular
+1601,Bannerghatta Road,2025-09-09,Regular
+1602,JP Nagar,2025-02-07,Regular
+1603,Bannerghatta Road,2025-06-14,Regular
+1604,Koramangala,2025-02-03,Regular
+1605,Koramangala,2025-05-21,Regular
+1606,BTM Layout,2025-06-16,Regular
+1607,HSR Layout,2025-09-29,Regular
+1608,Whitefield,2025-08-21,Regular
+1609,BTM Layout,2025-08-09,Regular
+1610,Bannerghatta Road,2025-02-28,Plus
+1611,BTM Layout,2025-04-21,Regular
+1612,HSR Layout,2025-08-20,Plus
+1613,Indiranagar,2025-07-31,Regular
+1614,Electronic City,2025-08-21,Regular
+1615,HSR Layout,2025-08-01,Plus
+1616,Bannerghatta Road,2025-06-10,Pro
+1617,HSR Layout,2025-06-10,Regular
+1618,Whitefield,2025-07-11,Regular
+1619,Koramangala,2025-08-31,Plus
+1620,Bannerghatta Road,2025-02-16,Plus
+1621,Bannerghatta Road,2025-02-17,Regular
+1622,HSR Layout,2025-02-19,Regular
+1623,Electronic City,2025-03-08,Regular
+1624,BTM Layout,2025-01-31,Regular
+1625,BTM Layout,2025-10-15,Regular
+1626,Electronic City,2025-03-04,Regular
+1627,HSR Layout,2025-07-01,Regular
+1628,HSR Layout,2025-01-27,Plus
+1629,Whitefield,2025-06-09,Regular
+1630,Electronic City,2025-02-23,Regular
+1631,BTM Layout,2025-04-19,Plus
+1632,Koramangala,2025-09-04,Plus
+1633,Indiranagar,2025-02-25,Regular
+1634,Electronic City,2025-10-12,Regular
+1635,Electronic City,2025-02-28,Regular
+1636,Whitefield,2025-10-21,Regular
+1637,Indiranagar,2025-08-08,Regular
+1638,BTM Layout,2025-10-13,Regular
+1639,Jayanagar,2025-05-17,Regular
+1640,Jayanagar,2025-04-03,Regular
+1641,Whitefield,2025-06-08,Regular
+1642,Electronic City,2025-06-29,Regular
+1643,Jayanagar,2025-04-03,Regular
+1644,Koramangala,2025-10-17,Regular
+1645,HSR Layout,2025-02-05,Regular
+1646,Koramangala,2025-01-16,Plus
+1647,Bannerghatta Road,2025-09-29,Regular
+1648,Indiranagar,2025-07-12,Plus
+1649,HSR Layout,2025-08-21,Plus
+1650,Electronic City,2025-03-22,Regular
+1651,Electronic City,2025-06-09,Regular
+1652,Electronic City,2025-10-18,Regular
+1653,Bannerghatta Road,2025-01-27,Regular
+1654,Koramangala,2025-03-22,Plus
+1655,Jayanagar,2025-02-11,Regular
+1656,Whitefield,2025-08-15,Regular
+1657,HSR Layout,2025-09-06,Regular
+1658,JP Nagar,2025-08-01,Regular
+1659,Whitefield,2025-04-21,Regular
+1660,BTM Layout,2025-02-28,Regular
+1661,Electronic City,2025-08-09,Regular
+1662,Bannerghatta Road,2025-05-26,Pro
+1663,JP Nagar,2025-09-27,Regular
+1664,Whitefield,2025-01-24,Regular
+1665,Indiranagar,2025-07-22,Regular
+1666,Jayanagar,2025-01-04,Regular
+1667,Indiranagar,2025-06-04,Regular
+1668,Indiranagar,2025-03-12,Regular
+1669,Whitefield,2025-05-29,Regular
+1670,Electronic City,2025-03-03,Regular
+1671,Jayanagar,2025-09-12,Regular
+1672,HSR Layout,2025-03-31,Plus
+1673,Koramangala,2025-07-14,Regular
+1674,BTM Layout,2025-04-28,Regular
+1675,BTM Layout,2025-10-14,Regular
+1676,Electronic City,2025-02-06,Pro
+1677,HSR Layout,2025-01-22,Regular
+1678,HSR Layout,2025-01-10,Regular
+1679,JP Nagar,2025-02-09,Pro
+1680,Electronic City,2025-10-22,Plus
+1681,HSR Layout,2025-10-21,Plus
+1682,HSR Layout,2025-08-02,Regular
+1683,Whitefield,2025-02-28,Regular
+1684,HSR Layout,2025-01-11,Plus
+1685,Electronic City,2025-03-29,Pro
+1686,JP Nagar,2025-07-05,Regular
+1687,Bannerghatta Road,2025-08-12,Regular
+1688,Bannerghatta Road,2025-05-05,Regular
+1689,HSR Layout,2025-07-25,Plus
+1690,BTM Layout,2025-02-10,Regular
+1691,HSR Layout,2025-06-08,Regular
+1692,Electronic City,2025-04-24,Regular
+1693,Electronic City,2025-03-28,Regular
+1694,Bannerghatta Road,2025-09-19,Regular
+1695,Bannerghatta Road,2025-09-29,Regular
+1696,BTM Layout,2025-04-10,Regular
+1697,Electronic City,2025-06-29,Regular
+1698,Koramangala,2025-05-01,Regular
+1699,Bannerghatta Road,2025-03-16,Regular
+1700,Whitefield,2025-04-12,Regular
+1701,Koramangala,2025-03-20,Regular
+1702,Bannerghatta Road,2025-04-01,Regular
+1703,JP Nagar,2025-08-26,Regular
+1704,JP Nagar,2025-10-17,Regular
+1705,Electronic City,2025-06-11,Regular
+1706,Koramangala,2025-08-14,Pro
+1707,Bannerghatta Road,2025-08-29,Regular
+1708,JP Nagar,2025-06-05,Plus
+1709,Whitefield,2025-01-29,Regular
+1710,Electronic City,2025-09-17,Plus
+1711,Bannerghatta Road,2025-06-08,Plus
+1712,JP Nagar,2025-08-20,Regular
+1713,Jayanagar,2025-01-30,Regular
+1714,Electronic City,2025-05-27,Regular
+1715,Bannerghatta Road,2025-02-16,Regular
+1716,BTM Layout,2025-07-16,Pro
+1717,JP Nagar,2025-10-25,Plus
+1718,BTM Layout,2025-01-22,Pro
+1719,JP Nagar,2025-10-20,Regular
+1720,Indiranagar,2025-06-14,Plus
+1721,JP Nagar,2025-09-14,Pro
+1722,Koramangala,2025-02-01,Regular
+1723,JP Nagar,2025-02-22,Regular
+1724,Electronic City,2025-02-13,Plus
+1725,BTM Layout,2025-03-30,Regular
+1726,Jayanagar,2025-05-07,Plus
+1727,JP Nagar,2025-08-13,Regular
+1728,BTM Layout,2025-09-25,Plus
+1729,Koramangala,2025-07-06,Regular
+1730,Electronic City,2025-05-25,Regular
+1731,HSR Layout,2025-07-29,Regular
+1732,Electronic City,2025-01-27,Plus
+1733,Electronic City,2025-02-03,Plus
+1734,Electronic City,2025-02-18,Regular
+1735,BTM Layout,2025-07-17,Regular
+1736,Whitefield,2025-05-10,Plus
+1737,Koramangala,2025-06-20,Regular
+1738,Bannerghatta Road,2025-10-26,Plus
+1739,Koramangala,2025-06-29,Regular
+1740,Whitefield,2025-07-20,Regular
+1741,Koramangala,2025-02-13,Regular
+1742,Whitefield,2025-10-14,Regular
+1743,HSR Layout,2025-06-18,Plus
+1744,Koramangala,2025-09-27,Regular
+1745,Bannerghatta Road,2025-08-05,Regular
+1746,BTM Layout,2025-07-05,Plus
+1747,Jayanagar,2025-07-05,Regular
+1748,Whitefield,2025-04-03,Regular
+1749,Indiranagar,2025-06-24,Pro
+1750,JP Nagar,2025-04-09,Regular
+1751,Indiranagar,2025-03-12,Regular
+1752,Koramangala,2025-02-09,Pro
+1753,Whitefield,2025-02-21,Regular
+1754,BTM Layout,2025-10-04,Regular
+1755,BTM Layout,2025-01-20,Regular
+1756,Electronic City,2025-03-09,Plus
+1757,HSR Layout,2025-03-20,Regular
+1758,Koramangala,2025-04-03,Regular
+1759,Koramangala,2025-08-13,Plus
+1760,Jayanagar,2025-07-30,Plus
+1761,Electronic City,2025-05-02,Regular
+1762,JP Nagar,2025-05-26,Regular
+1763,JP Nagar,2025-04-30,Regular
+1764,BTM Layout,2025-05-03,Plus
+1765,Whitefield,2025-08-29,Regular
+1766,Indiranagar,2025-07-08,Regular
+1767,JP Nagar,2025-08-25,Plus
+1768,Whitefield,2025-07-15,Plus
+1769,BTM Layout,2025-09-28,Regular
+1770,HSR Layout,2025-03-24,Plus
+1771,Indiranagar,2025-03-12,Regular
+1772,Whitefield,2025-01-27,Plus
+1773,JP Nagar,2025-07-10,Regular
+1774,BTM Layout,2025-02-22,Regular
+1775,BTM Layout,2025-03-05,Plus
+1776,Whitefield,2025-02-12,Regular
+1777,Koramangala,2025-05-20,Regular
+1778,JP Nagar,2025-09-20,Plus
+1779,Koramangala,2025-08-12,Plus
+1780,Bannerghatta Road,2025-04-24,Regular
+1781,JP Nagar,2025-06-28,Plus
+1782,Jayanagar,2025-08-01,Regular
+1783,Jayanagar,2025-07-22,Regular
+1784,BTM Layout,2025-07-11,Regular
+1785,Indiranagar,2025-07-17,Regular
+1786,Bannerghatta Road,2025-07-11,Pro
+1787,Indiranagar,2025-01-15,Regular
+1788,Electronic City,2025-02-20,Regular
+1789,Electronic City,2025-03-16,Regular
+1790,Koramangala,2025-01-20,Pro
+1791,Whitefield,2025-08-30,Regular
+1792,Koramangala,2025-08-29,Regular
+1793,JP Nagar,2025-01-03,Regular
+1794,Bannerghatta Road,2025-01-10,Regular
+1795,Whitefield,2025-04-21,Regular
+1796,Koramangala,2025-10-08,Plus
+1797,BTM Layout,2025-08-05,Pro
+1798,Bannerghatta Road,2025-05-28,Regular
+1799,Indiranagar,2025-06-04,Plus
+1800,Bannerghatta Road,2025-01-25,Pro
